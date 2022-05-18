@@ -8,3 +8,5 @@ bin/
 
 # Ignore all temp files
 *.tmp
+
+nic.txt
